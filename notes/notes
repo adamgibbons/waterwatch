@@ -1,0 +1,11 @@
+https://help.waterdata.usgs.gov/faq/automated-retrievals#Examples
+
+06727500
+
+https://streamstats.usgs.gov/streamstatsservices/flowstatistics.json?rcode=co
+
+PAGE I WANT DATA FROM
+https://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=06727500
+
+
+https://waterservices.usgs.gov/nwis/iv/?sites=06727500&period=P1D&format=json
